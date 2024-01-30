@@ -1,0 +1,24 @@
+.accordion {
+    width: 300px;
+  }
+  
+  .accordion-item {
+    margin-bottom: 8px;
+  }
+  
+  .accordion-header {
+    cursor: pointer;
+    padding: 8px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+  }
+  
+  .accordion-header.open {
+    background-color: #ddd;
+  }
+  
+  .accordion-content {
+    padding: 8px;
+    border: 1px solid #ccc;
+  }
+  
